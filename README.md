@@ -12,8 +12,8 @@ This repository contains the materials used for the App Lab Adventures training 
 
 ## Contents
 
-*   **`presentation.ppt`:** The PowerPoint presentation used during the training session. This presentation covers the basics of App Lab, explains key concepts, and provides instructions for completing the activities.
-*   **`instruction_guide.pdf`:**  This document serves as a guide and, in some cases, a partial answer key for the activities presented in the `presentation.ppt`.  It provides hints, code snippets, and explanations to help participants understand and complete the challenges.  *Note: The guide is intentionally vague in certain sections to encourage problem-solving and independent thinking.*
+*   **`Facilitation_guide.pptx`:** The PowerPoint presentation used during the training session. This presentation covers the basics of App Lab, explains key concepts, and provides instructions for completing the activities.
+*   **`instruction_guide.docx`:**  This document serves as a guide and, in some cases, a partial answer key for the activities presented in the `presentation.ppt`.  It provides hints, code snippets, and explanations to help participants understand and complete the challenges.  *Note: The guide is intentionally vague in certain sections to encourage problem-solving and independent thinking.*
 *   **`code.org/applab/`: **link to the official website**
 
 ## Session Schedule
